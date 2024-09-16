@@ -22,6 +22,12 @@ namespace _2DataAccessLayer.Context
 
         public DbSet<Employee> Employees { get; set; }
 
+        public DbSet<Unit> Unit { get; set; }
+
+        public DbSet<Event> Event { get; set; }
+
+        public DbSet<Project> Project { get; set; }
+
 
         //security models
         public DbSet<UserAccount> UserAccounts { get; set; }
