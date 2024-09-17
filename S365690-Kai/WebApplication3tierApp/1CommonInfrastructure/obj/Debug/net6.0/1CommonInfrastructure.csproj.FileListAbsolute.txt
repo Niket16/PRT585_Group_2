@@ -1,0 +1,12 @@
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.deps.json
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.dll
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.pdb
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.csproj.AssemblyReference.cache
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.AssemblyInfoInputs.cache
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.AssemblyInfo.cs
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.csproj.CoreCompileInputs.cache
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.dll
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/refint/1CommonInfrastructure.dll
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.pdb
+/Users/john/CDU/585/github/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/ref/1CommonInfrastructure.dll
