@@ -1,0 +1,44 @@
+/* td {
+    vertical-align: middle;
+}
+ */
+
+ .control-section {
+    /* margin-top: 100px; */
+  }
+
+  .e-grid {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    background-color: #f7f7f7;
+  }
+
+  .e-gridheader {
+    background-color: #e7e7e7;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .e-gridcontent {
+    overflow: auto;
+  }
+
+  .e-gridrow {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .e-gridcell {
+    padding: 10px;
+  }
+
+  .e-gridheadercell {
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .top-100 {
+    top : 100px;
+  }
+
+  body {
+    position: relative;
+  }

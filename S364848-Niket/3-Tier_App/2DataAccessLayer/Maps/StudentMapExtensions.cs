@@ -16,7 +16,11 @@ namespace _2DataAccessLayer.Maps
             var dst = new StudentModel();
 
             dst.StudentId = src.StudentId;
-            dst.StudentName = src.StudentName;
+            dst.StudentFirstName = src.StudentFirstName;
+            dst.StudentLastName = src.StudentLastName;
+            dst.StudentDepartment = src.StudentDepartment;
+            dst.StudentEmail = src.StudentEmail;
+            
 
             return dst;
         }
@@ -29,7 +33,10 @@ namespace _2DataAccessLayer.Maps
             }
 
             dst.StudentId = src.StudentId;
-            dst.StudentName = src.StudentName;
+            dst.StudentFirstName = src.StudentFirstName;
+            dst.StudentLastName = src.StudentLastName;
+            dst.StudentDepartment = src.StudentDepartment;
+            dst.StudentEmail = src.StudentEmail;
 
             return dst;
         }

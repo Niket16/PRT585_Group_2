@@ -5,8 +5,15 @@ namespace WebApplication3tierApp.Models
     public class StudentDto
     {
         public int StudentId { get; set; }
-        public string StudentName { get; set; }
-                        
+
+        public string StudentFirstName { get; set; } // nvarchar(400)
+
+        public string StudentLastName { get; set; }
+
+        public string StudentEmail { get; set; }
+
+        public string StudentDepartment { get; set; }
+
     }
 
     public static class StudentDtoMapExtensions
@@ -15,7 +22,10 @@ namespace WebApplication3tierApp.Models
         {
             var dst = new StudentDto();
             dst.StudentId = src.StudentId;
-            dst.StudentName = src.StudentName;            
+            dst.StudentFirstName = src.StudentFirstName;
+            dst.StudentLastName = src.StudentLastName;
+            dst.StudentDepartment = src.StudentDepartment;
+            dst.StudentEmail = src.StudentEmail;
             return dst;
         }
 
@@ -23,7 +33,10 @@ namespace WebApplication3tierApp.Models
         {
             var dst = new StudentModel();
             dst.StudentId = src.StudentId;
-            dst.StudentName = src.StudentName;            
+            dst.StudentFirstName = src.StudentFirstName;
+            dst.StudentLastName = src.StudentLastName;
+            dst.StudentDepartment = src.StudentDepartment;
+            dst.StudentEmail = src.StudentEmail;
             return dst;
         }
     }

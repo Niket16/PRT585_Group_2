@@ -10,7 +10,13 @@ namespace _1CommonInfrastructure.Models
     public class StudentModel
     {
         public int StudentId { get; set; } // int
-        public string StudentName { get; set; } // nvarchar(400)
+        public string StudentFirstName { get; set; } // nvarchar(400)
+
+        public string StudentLastName { get; set; }
+
+        public string StudentEmail { get; set; }
+
+        public string StudentDepartment { get; set; }
 
     }
 
