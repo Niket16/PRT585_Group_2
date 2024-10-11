@@ -1,0 +1,10 @@
+<nav>
+  <a routerLink="/units">List Units</a> |
+  <a routerLink="/units/add">Add Unit</a>
+</nav>
+
+<router-outlet></router-outlet>
+<div *ngIf="units?.length > 0">
+  <!-- Render your list -->
+</div>
+
